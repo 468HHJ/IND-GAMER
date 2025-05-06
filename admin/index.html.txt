@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Admin Panel</title>
+    <script src="https://cdn.jsdelivr.net/npm/netlify-cms-app@2.14.0/dist/netlify-cms.js"></script>
+  </head>
+  <body>
+    <h1>Welcome to the Admin Panel</h1>
+  </body>
+</html>
